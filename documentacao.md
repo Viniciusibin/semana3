@@ -174,7 +174,7 @@ void loop() {
 <sup>Fonte: Material produzido pelos autor (2024)</sup>
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp; Segue abaixo o link do vidio do  funcionamento do sistema:
+&nbsp;&nbsp;&nbsp;&nbsp; Segue abaixo o link do video do  funcionamento do sistema:
 https://youtube.com/shorts/_OBahUNVAlo
 
 ## Teste e Resultados
