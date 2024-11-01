@@ -33,6 +33,7 @@ Para a montagem física, utilizei uma protoboard, três LEDs (vermelho, amarelo 
 | Jumper     | Cabos para conexão          | Vários     |
 | Arduino    | Modelo Uno                  | 1          |
 | Botão      | Push button                 | 1          |
+| Cabo      |  Cabo USB 2.0 A/B                  | 1          |
 
 ---
 
