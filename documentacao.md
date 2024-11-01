@@ -45,7 +45,7 @@ O código para a programação do semáforo foi escrito conforme as instruções
 
 - **Vermelho**: 6 segundos
 - **Amarelo**: 2 segundos
-- **Verde**: 4 segundos (com um intervalo adicional de 2 segundos, totalizando 6 segundos de travessia)
+- **Verde**: 4 segundos (com dois intervalos de 2 segundos, totalizando 4 segundos de travessia)
 - **Amarelo**: 2 segundos
 
 Aqui está o código:
